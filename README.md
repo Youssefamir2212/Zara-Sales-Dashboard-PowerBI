@@ -13,9 +13,9 @@ This **Power BI** project provides a deep dive into the sales performance of **Z
 * **Seasonality & Promotions**: Evaluated the impact of seasonal trends and promotional offers.
 
 ## 📂 Repository Structure
-* `Zara Project.pbix`: The complete Power BI project file.
-* `zara.csv`: The raw dataset used for this analysis.
-* `Zara Project Dashboard.png`: A high-resolution screenshot of the final dashboard.
+* [Zara Project.pbix](Zara%20Project.pbix): The complete Power BI project file.
+* [zara.csv](zara.csv): The raw dataset used for this analysis.
+* [Zara Project Dashboard.png](Zara%20Project%20Dashboard.png): A high-resolution screenshot of the final dashboard.
 
 ## 🚀 How to Explore
 1. Download the `Zara Project.pbix` file.
